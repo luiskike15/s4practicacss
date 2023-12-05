@@ -1,0 +1,52 @@
+ h1{
+    background-color: peru;
+    color: white;
+ }
+
+a{
+   text-decoration: none;
+   color: black;
+}
+ 
+.famTipografia { 
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
+.tamañoFuentePx{
+    font-size: 16px;
+}
+.tamañoFuenteEM{
+
+    font-size: 2em;
+}
+.tamañoFuenteREM{
+    font-size: 3rem;
+
+}
+
+.lineHeight{
+    line-height: 2;
+}
+
+
+.textTransform{
+    text-transform: uppercase;
+}
+                
+.textAlign{
+    text-align: center;
+}
+
+.fontWeight{
+    font-weight: 700;
+}
+     
+
+.fontStyle{
+    font-style: italic;
+}
+
+.fontDecoration{
+    text-decoration: underline;
+}
